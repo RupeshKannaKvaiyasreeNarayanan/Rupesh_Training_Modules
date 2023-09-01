@@ -31,3 +31,16 @@
 
 
 ![Screenshot](https://github.com/RupeshKannaKvaiyasreeNarayanan/Rupesh_Training_Modules/assets/142465674/d9562309-3a99-4cde-8414-ed0a05be5244)
+
+
+
+
+
+# Rupesh Module 3
+
+## Answers 
+
+1. To add a single line comment in python we use #
+2. To add a single line comment in C++ we use //
+3. To add a multi line comment in python we use """ and close it with """
+4. To add a multi line comment in C++ we use /* and close it with */
