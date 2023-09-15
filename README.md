@@ -44,3 +44,14 @@
 2. To add a single line comment in C++ we use //
 3. To add a multi line comment in python we use """ and close it with """
 4. To add a multi line comment in C++ we use /* and close it with */
+
+
+# Method: Identify Odd Even Numbers
+
+## Description:
+The purpose of this method is to add the parameters and identifyif they are Odd or Even.
+
+## Parameters:
+x&y input numbers
+z input numbers added
+a modulo for identifying if the added number is odd or Even.
