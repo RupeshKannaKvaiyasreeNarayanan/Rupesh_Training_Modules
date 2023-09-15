@@ -49,7 +49,7 @@
 # Method: Identify Odd Even Numbers
 
 ## Description:
-The purpose of this method is to add the parameters and identifyif they are Odd or Even.
+The purpose of this method is to add the parameters and identify if they are Odd or Even.
 
 ## Parameters:
 x&y input numbers
