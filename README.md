@@ -11,3 +11,47 @@
 ![alt text](https://media0.giphy.com/media/9Ai5dIk8xvBm0/giphy.gif?cid=ecf05e471jr001rx8gn1x8515w4gomohrcsvupewpvaabg08&ep=v1_gifs_search&rid=giphy.gif&ct=g "Logo Title text 1")
 
 [A Really Fun and Informative Webpage](https://neal.fun/)
+
+
+
+
+
+# Rupesh Module 2
+
+## Answers
+
+1. The command used to display the current working directory is 'pwd'
+2. To create a new directory, go to the desired directory using the command 'cd <directory>' and create a directory uding the 'mkdir' command.
+3. The 'ls' command is used to list all the files in the directory.
+4. To navigate to the parent directory we use the 'cd' command followed by a space and 2 periods 'cd ..'
+5. 'cp' is the command used to copy a file in a directory. eg: cp Module2.txt /home/rupesh/Documents.
+
+
+
+
+
+![Screenshot](https://github.com/RupeshKannaKvaiyasreeNarayanan/Rupesh_Training_Modules/assets/142465674/d9562309-3a99-4cde-8414-ed0a05be5244)
+
+
+
+
+
+# Rupesh Module 3
+
+## Answers 
+
+1. To add a single line comment in python we use #
+2. To add a single line comment in C++ we use //
+3. To add a multi line comment in python we use """ and close it with """
+4. To add a multi line comment in C++ we use /* and close it with */
+
+
+# Method: Identify Odd Even Numbers
+
+## Description:
+The purpose of this method is to add the parameters and identify if they are Odd or Even.
+
+## Parameters:
+x&y input numbers
+z input numbers added
+a modulo for identifying if the added number is odd or Even.
